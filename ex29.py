@@ -20,8 +20,8 @@ dogs += 5
 if people <= dogs:
 	print "People are greater than or equal to dogs"
 	
-#if people =< dogs:
-#	print "People are less than or equal to dogs"
+if people =< dogs:
+	print "People are less than or equal to dogs"
 	
 if people == dogs:
 	print "people are dogs"
